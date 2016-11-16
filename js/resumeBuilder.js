@@ -119,7 +119,7 @@ var education = {
 	"schools" : [
 	{
 		"name": "FH M&uuml;nchen",
-		"location": "M&uuml;nchen",
+		"location": "M&uuml;nchen, Germany",
 		"degree": "Diplom",
 		"dates":"August 2005 - Juni 2009",
 		"major" : "hm?",
